@@ -1,0 +1,29 @@
+[{
+            "name":"Esteban",
+            "hobby":"Dibujo"
+        },
+        {
+            "name":"Pau",
+            "hobby":"Pintura" 
+        },
+        {
+            "name":"Jas",
+           "hobby":"Escalada"
+        },
+        {
+            "name":"Luz",
+            "hobby":"Escuchar"
+        },
+        {
+            "name":"David",
+            "hobby":"Parkour"
+        },
+        {
+            "name":"Luna",
+            "hobby":"Tatuar"
+        },
+        {
+            "name":" Carlitos ",
+            "hobby":"videojuegos"
+        }
+    ]
