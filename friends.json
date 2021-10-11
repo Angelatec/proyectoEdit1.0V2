@@ -1,5 +1,4 @@
-{
-    "friends":[{
+[{
             "name":"Esteban",
             "hobby":"Dibujo"
         },
@@ -28,4 +27,4 @@
             "hobby":"videojuegos"
         }
     ]
-}
+
