@@ -3,48 +3,48 @@
             "hobby":"Dibujo",
              "age":"26",
              "phone":"3353052815",
-            "adress":"Puente 340"
+            "address":"Puente 340"
         },
         {
             "name":"Pau",
             "hobby":"Pintura",
              "age":"21",
              "phone":"3314116836",
-            "adress":"Cal. central 13"
+            "address":"Cal. central 13"
         },
         {
             "name":"Jas",
            "hobby":"Escalada",
              "age":"21",
              "phone":"3319302945",
-            "adress":"Los cerezos 21"
+            "address":"Los cerezos 21"
         },
         {
             "name":"Luz",
             "hobby":"Escuchar",
              "age":"21",
              "phone":"3312124323",
-            "adress":"Aurelio 2032"
+            "address":"Aurelio 2032"
         },
         {
             "name":"David",
             "hobby":"Parkour",
              "age":"22",
              "phone":"33456784",
-            "adress":"Santa Tere 1321"
+            "address":"Santa Tere 1321"
         },
         {
             "name":"Luna",
             "hobby":"Tatuar",
              "age":"22",
              "phone":"3345654521",
-            "adress":"Chapultepec 3412"
+            "address":"Chapultepec 3412"
         },
         {
             "name":" Carlitos ",
             "hobby":"videojuegos",
              "age":"21",
              "phone":"3356452343",
-            "adress":"Hábitad 131"
+            "address":"Hábitad 131"
         }
     ]
